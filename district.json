@@ -1,0 +1,2036 @@
+[
+    {
+        "code": 4,
+        "name": "Адаацаг",
+        "parent": 48,
+        "name_en": "Adaatsag"
+    },
+    {
+        "code": 4,
+        "name": "Айраг",
+        "parent": 44,
+        "name_en": "Airag"
+    },
+    {
+        "code": 4,
+        "name": "Алаг-Эрдэнэ",
+        "parent": 67,
+        "name_en": "Alag-Erdene"
+    },
+    {
+        "code": 4,
+        "name": "Алдархаан",
+        "parent": 81,
+        "name_en": "Aldarkhaan"
+    },
+    {
+        "code": 4,
+        "name": "Алтай",
+        "parent": 82,
+        "name_en": "Altai"
+    },
+    {
+        "code": 4,
+        "name": "Алтай",
+        "parent": 83,
+        "name_en": "Altai"
+    },
+    {
+        "code": 4,
+        "name": "Алтай",
+        "parent": 84,
+        "name_en": "Altai"
+    },
+    {
+        "code": 4,
+        "name": "Алтанбулаг",
+        "parent": 41,
+        "name_en": "Altanbulag"
+    },
+    {
+        "code": 4,
+        "name": "Алтанбулаг",
+        "parent": 43,
+        "name_en": "Altanbulag"
+    },
+    {
+        "code": 7,
+        "name": "Алтанцөгц",
+        "parent": 83,
+        "name_en": "Altantsugts"
+    },
+    {
+        "code": 7,
+        "name": "Алтанширээ",
+        "parent": 44,
+        "name_en": "Altanshiree"
+    },
+    {
+        "code": 7,
+        "name": "Арбулаг",
+        "parent": 67,
+        "name_en": "Arbulag"
+    },
+    {
+        "code": 1,
+        "name": "Арвайхээр",
+        "parent": 62,
+        "name_en": "Arvaikheer"
+    },
+    {
+        "code": 7,
+        "name": "Аргалант",
+        "parent": 41,
+        "name_en": "Argalant"
+    },
+    {
+        "code": 10,
+        "name": "Архуст",
+        "parent": 41,
+        "name_en": "Arkhust"
+    },
+    {
+        "code": 4,
+        "name": "Асгат",
+        "parent": 22,
+        "name_en": "Asgat"
+    },
+    {
+        "code": 7,
+        "name": "Асгат",
+        "parent": 81,
+        "name_en": "Asgat"
+    },
+    {
+        "code": 4,
+        "name": "Баацагаан",
+        "parent": 64,
+        "name_en": "Baatsagaan"
+    },
+    {
+        "code": 1,
+        "name": "Багануур",
+        "parent": 11,
+        "name_en": "Baganuur"
+    },
+    {
+        "code": 4,
+        "name": "Багахангай",
+        "parent": 11,
+        "name_en": "Bagakhangai"
+    },
+    {
+        "code": 1,
+        "name": "Баруун-Урт",
+        "parent": 22,
+        "name_en": "Baruun-Urt"
+    },
+    {
+        "code": 4,
+        "name": "Баруунбаян-Улаан",
+        "parent": 62,
+        "name_en": "Baruunbayan-Ulaan"
+    },
+    {
+        "code": 7,
+        "name": "Баруунбүрэн",
+        "parent": 43,
+        "name_en": "Baruunburen"
+    },
+    {
+        "code": 4,
+        "name": "Баруунтуруун",
+        "parent": 85,
+        "name_en": "Baruunturuun"
+    },
+    {
+        "code": 7,
+        "name": "Бат-Өлзий",
+        "parent": 62,
+        "name_en": "Bat-Ulzii"
+    },
+    {
+        "code": 4,
+        "name": "Батноров",
+        "parent": 23,
+        "name_en": "Batnorov"
+    },
+    {
+        "code": 13,
+        "name": "Батсүмбэр",
+        "parent": 41,
+        "name_en": "Batsumber"
+    },
+    {
+        "code": 4,
+        "name": "Батцэнгэл",
+        "parent": 65,
+        "name_en": "Battsengel"
+    },
+    {
+        "code": 7,
+        "name": "Батширээт",
+        "parent": 23,
+        "name_en": "Batshireet"
+    },
+    {
+        "code": 16,
+        "name": "Баян",
+        "parent": 41,
+        "name_en": "Bayan"
+    },
+    {
+        "code": 4,
+        "name": "Баян-Агт",
+        "parent": 63,
+        "name_en": "Bayan-Agt"
+    },
+    {
+        "code": 10,
+        "name": "Баян-Адарга",
+        "parent": 23,
+        "name_en": "Bayan-Adarga"
+    },
+    {
+        "code": 16,
+        "name": "Баян-Овоо",
+        "parent": 23,
+        "name_en": "Bayan-Ovoo"
+    },
+    {
+        "code": 7,
+        "name": "Баян-Овоо",
+        "parent": 46,
+        "name_en": "Bayan-Ovoo"
+    },
+    {
+        "code": 16,
+        "name": "Баян-Овоо",
+        "parent": 64,
+        "name_en": "Bayan-Ovoo"
+    },
+    {
+        "code": 10,
+        "name": "Баян-Уул",
+        "parent": 21,
+        "name_en": "Bayan-Uul"
+    },
+    {
+        "code": 7,
+        "name": "Баян-Уул",
+        "parent": 82,
+        "name_en": "Bayan-Uul"
+    },
+    {
+        "code": 1,
+        "name": "Баян-Өндөр",
+        "parent": 61,
+        "name_en": "Bayan-Undur"
+    },
+    {
+        "code": 13,
+        "name": "Баян-Өндөр",
+        "parent": 62,
+        "name_en": "Bayan-Undur"
+    },
+    {
+        "code": 19,
+        "name": "Баян-Өндөр",
+        "parent": 64,
+        "name_en": "Bayan-Undur"
+    },
+    {
+        "code": 25,
+        "name": "Баян-Өнжүүл",
+        "parent": 41,
+        "name_en": "Bayan-Unjuul"
+    },
+    {
+        "code": 7,
+        "name": "Баянбулаг",
+        "parent": 64,
+        "name_en": "Bayanbulag"
+    },
+    {
+        "code": 10,
+        "name": "Баянговь",
+        "parent": 64,
+        "name_en": "Bayangovi"
+    },
+    {
+        "code": 7,
+        "name": "Баянгол",
+        "parent": 11,
+        "name_en": "Bayangol"
+    },
+    {
+        "code": 10,
+        "name": "Баянгол",
+        "parent": 43,
+        "name_en": "Bayangol"
+    },
+    {
+        "code": 10,
+        "name": "Баянгол",
+        "parent": 62,
+        "name_en": "Bayangol"
+    },
+    {
+        "code": 4,
+        "name": "Баяндалай",
+        "parent": 46,
+        "name_en": "Bayandalai"
+    },
+    {
+        "code": 4,
+        "name": "Баяндун",
+        "parent": 21,
+        "name_en": "Bayandun"
+    },
+    {
+        "code": 7,
+        "name": "Баяндэлгэр",
+        "parent": 22,
+        "name_en": "Bayandelger"
+    },
+    {
+        "code": 19,
+        "name": "Баяндэлгэр",
+        "parent": 41,
+        "name_en": "Bayandelger"
+    },
+    {
+        "code": 22,
+        "name": "Баянжаргалан",
+        "parent": 41,
+        "name_en": "Bayanjargalan"
+    },
+    {
+        "code": 7,
+        "name": "Баянжаргалан",
+        "parent": 48,
+        "name_en": "Bayanjargalan"
+    },
+    {
+        "code": 10,
+        "name": "Баянзүрх",
+        "parent": 11,
+        "name_en": "Bayanzurkh"
+    },
+    {
+        "code": 10,
+        "name": "Баянзүрх",
+        "parent": 67,
+        "name_en": "Bayanzurkh"
+    },
+    {
+        "code": 13,
+        "name": "Баянлиг",
+        "parent": 64,
+        "name_en": "Bayanlig"
+    },
+    {
+        "code": 13,
+        "name": "Баянмөнх",
+        "parent": 23,
+        "name_en": "Bayanmunkh"
+    },
+    {
+        "code": 7,
+        "name": "Баяннуур",
+        "parent": 63,
+        "name_en": "Bayannuur"
+    },
+    {
+        "code": 10,
+        "name": "Баяннуур",
+        "parent": 83,
+        "name_en": "Bayannuur"
+    },
+    {
+        "code": 4,
+        "name": "Баянтал",
+        "parent": 42,
+        "name_en": "Bayantal"
+    },
+    {
+        "code": 10,
+        "name": "Баянтэс",
+        "parent": 81,
+        "name_en": "Bayantes"
+    },
+    {
+        "code": 7,
+        "name": "Баянтүмэн",
+        "parent": 21,
+        "name_en": "Bayantumen"
+    },
+    {
+        "code": 13,
+        "name": "Баянхайрхан",
+        "parent": 81,
+        "name_en": "Bayankhairkhan"
+    },
+    {
+        "code": 28,
+        "name": "Баянхангай",
+        "parent": 41,
+        "name_en": "Bayankhangai"
+    },
+    {
+        "code": 1,
+        "name": "Баянхонгор",
+        "parent": 64,
+        "name_en": "Bayankhongor"
+    },
+    {
+        "code": 19,
+        "name": "Баянхутаг",
+        "parent": 23,
+        "name_en": "Bayankhutag"
+    },
+    {
+        "code": 31,
+        "name": "Баянцагаан",
+        "parent": 41,
+        "name_en": "Bayantsagaan"
+    },
+    {
+        "code": 22,
+        "name": "Баянцагаан",
+        "parent": 64,
+        "name_en": "Bayantsagaan"
+    },
+    {
+        "code": 34,
+        "name": "Баянцогт",
+        "parent": 41,
+        "name_en": "Bayantsogt"
+    },
+    {
+        "code": 37,
+        "name": "Баянчандмань",
+        "parent": 41,
+        "name_en": "Bayanchandmani"
+    },
+    {
+        "code": 10,
+        "name": "Бигэр",
+        "parent": 82,
+        "name_en": "Biger"
+    },
+    {
+        "code": 22,
+        "name": "Биндэр",
+        "parent": 23,
+        "name_en": "Binder"
+    },
+    {
+        "code": 16,
+        "name": "Богд",
+        "parent": 62,
+        "name_en": "Bogd"
+    },
+    {
+        "code": 25,
+        "name": "Богд",
+        "parent": 64,
+        "name_en": "Bogd"
+    },
+    {
+        "code": 52,
+        "name": "Бор-Өндөр",
+        "parent": 23,
+        "name_en": "Bor-Undur"
+    },
+    {
+        "code": 40,
+        "name": "Борнуур",
+        "parent": 41,
+        "name_en": "Bornuur"
+    },
+    {
+        "code": 10,
+        "name": "Бугат",
+        "parent": 63,
+        "name_en": "Bugat"
+    },
+    {
+        "code": 13,
+        "name": "Бугат",
+        "parent": 82,
+        "name_en": "Bugat"
+    },
+    {
+        "code": 13,
+        "name": "Бугат",
+        "parent": 83,
+        "name_en": "Bugat"
+    },
+    {
+        "code": 13,
+        "name": "Булган",
+        "parent": 21,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 10,
+        "name": "Булган",
+        "parent": 46,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 1,
+        "name": "Булган",
+        "parent": 63,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 7,
+        "name": "Булган",
+        "parent": 65,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 16,
+        "name": "Булган",
+        "parent": 83,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 7,
+        "name": "Булган",
+        "parent": 84,
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 31,
+        "name": "Бууцагаан",
+        "parent": 64,
+        "name_en": "Buutsagaan"
+    },
+    {
+        "code": 19,
+        "name": "Буянт",
+        "parent": 83,
+        "name_en": "Buyant"
+    },
+    {
+        "code": 10,
+        "name": "Буянт",
+        "parent": 84,
+        "name_en": "Buyant"
+    },
+    {
+        "code": 19,
+        "name": "Бүрд",
+        "parent": 62,
+        "name_en": "Burd"
+    },
+    {
+        "code": 13,
+        "name": "Бүрэгхангай",
+        "parent": 63,
+        "name_en": "Buregkhangai"
+    },
+    {
+        "code": 43,
+        "name": "Бүрэн",
+        "parent": 41,
+        "name_en": "Buren"
+    },
+    {
+        "code": 13,
+        "name": "Бүрэнтогтох",
+        "parent": 67,
+        "name_en": "Burentogtokh"
+    },
+    {
+        "code": 28,
+        "name": "Бөмбөгөр",
+        "parent": 64,
+        "name_en": "Bumbugur"
+    },
+    {
+        "code": 7,
+        "name": "Бөхмөрөн",
+        "parent": 85,
+        "name_en": "Bukhmurun"
+    },
+    {
+        "code": 16,
+        "name": "Галт",
+        "parent": 67,
+        "name_en": "Galt"
+    },
+    {
+        "code": 34,
+        "name": "Галуут",
+        "parent": 64,
+        "name_en": "Galuut"
+    },
+    {
+        "code": 25,
+        "name": "Галшар",
+        "parent": 23,
+        "name_en": "Galshar"
+    },
+    {
+        "code": 10,
+        "name": "Говь-Угтаал",
+        "parent": 48,
+        "name_en": "Govi-Ugtaal"
+    },
+    {
+        "code": 16,
+        "name": "Гурван булаг",
+        "parent": 63,
+        "name_en": "Gurvan bulag"
+    },
+    {
+        "code": 37,
+        "name": "Гурванбулаг",
+        "parent": 64,
+        "name_en": "Gurvanbulag"
+    },
+    {
+        "code": 16,
+        "name": "Гурванзагал",
+        "parent": 21,
+        "name_en": "Gurvanzagal"
+    },
+    {
+        "code": 13,
+        "name": "Гурвансайхан",
+        "parent": 48,
+        "name_en": "Gurvansaikhan"
+    },
+    {
+        "code": 13,
+        "name": "Гурвантэс",
+        "parent": 46,
+        "name_en": "Gurvantes"
+    },
+    {
+        "code": 22,
+        "name": "Гучин-Ус",
+        "parent": 62,
+        "name_en": "Guchin-Us"
+    },
+    {
+        "code": 10,
+        "name": "Давст",
+        "parent": 85,
+        "name_en": "Davst"
+    },
+    {
+        "code": 28,
+        "name": "Дадал",
+        "parent": 23,
+        "name_en": "Dadal"
+    },
+    {
+        "code": 10,
+        "name": "Даланжаргалан",
+        "parent": 44,
+        "name_en": "Dalanjargalan"
+    },
+    {
+        "code": 1,
+        "name": "Даланзадгад",
+        "parent": 46,
+        "name_en": "Dalanzadgad"
+    },
+    {
+        "code": 13,
+        "name": "Дарви",
+        "parent": 84,
+        "name_en": "Darvi"
+    },
+    {
+        "code": 16,
+        "name": "Дарив",
+        "parent": 82,
+        "name_en": "Dariv"
+    },
+    {
+        "code": 31,
+        "name": "Дархан",
+        "parent": 23,
+        "name_en": "Darkhan"
+    },
+    {
+        "code": 1,
+        "name": "Дархан",
+        "parent": 45,
+        "name_en": "Darkhan"
+    },
+    {
+        "code": 10,
+        "name": "Дарьганга",
+        "parent": 22,
+        "name_en": "Dariganga"
+    },
+    {
+        "code": 19,
+        "name": "Дашбалбар",
+        "parent": 21,
+        "name_en": "Dashbalbar"
+    },
+    {
+        "code": 19,
+        "name": "Дашинчилэн",
+        "parent": 63,
+        "name_en": "Dashinchilen"
+    },
+    {
+        "code": 19,
+        "name": "Дуут",
+        "parent": 84,
+        "name_en": "Duut"
+    },
+    {
+        "code": 19,
+        "name": "Дэлгэр",
+        "parent": 82,
+        "name_en": "Delger"
+    },
+    {
+        "code": 34,
+        "name": "Дэлгэрхаан",
+        "parent": 23,
+        "name_en": "Delgerkhaan"
+    },
+    {
+        "code": 46,
+        "name": "Дэлгэрхаан",
+        "parent": 41,
+        "name_en": "Delgerkhaan"
+    },
+    {
+        "code": 16,
+        "name": "Дэлгэрхангай",
+        "parent": 48,
+        "name_en": "Delgerkhangai"
+    },
+    {
+        "code": 19,
+        "name": "Дэлгэрцогт",
+        "parent": 48,
+        "name_en": "Delgertsogt"
+    },
+    {
+        "code": 13,
+        "name": "Дэлгэрэх",
+        "parent": 44,
+        "name_en": "Delgerekh"
+    },
+    {
+        "code": 22,
+        "name": "Дэлүүн",
+        "parent": 83,
+        "name_en": "Deluun"
+    },
+    {
+        "code": 22,
+        "name": "Дэрэн",
+        "parent": 48,
+        "name_en": "Deren"
+    },
+    {
+        "code": 16,
+        "name": "Дөрвөлжин",
+        "parent": 81,
+        "name_en": "Durvuljin"
+    },
+    {
+        "code": 16,
+        "name": "Дөргөн",
+        "parent": 84,
+        "name_en": "Durgun"
+    },
+    {
+        "code": 13,
+        "name": "Ерөө",
+        "parent": 43,
+        "name_en": "Yeruu"
+    },
+    {
+        "code": 25,
+        "name": "Есөн зүйл",
+        "parent": 62,
+        "name_en": "Yesun zuil"
+    },
+    {
+        "code": 1,
+        "name": "Есөнбулаг",
+        "parent": 82,
+        "name_en": "Yesunbulag"
+    },
+    {
+        "code": 16,
+        "name": "Жавхлант",
+        "parent": 43,
+        "name_en": "Javkhlant"
+    },
+    {
+        "code": 22,
+        "name": "Жаргалан",
+        "parent": 82,
+        "name_en": "Jargalan"
+    },
+    {
+        "code": 49,
+        "name": "Жаргалант",
+        "parent": 41,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 4,
+        "name": "Жаргалант",
+        "parent": 61,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 40,
+        "name": "Жаргалант",
+        "parent": 64,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 10,
+        "name": "Жаргалант",
+        "parent": 65,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 19,
+        "name": "Жаргалант",
+        "parent": 67,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 1,
+        "name": "Жаргалант",
+        "parent": 84,
+        "name_en": "Jargalant"
+    },
+    {
+        "code": 37,
+        "name": "Жаргалтхаан",
+        "parent": 23,
+        "name_en": "Jargaltkhaan"
+    },
+    {
+        "code": 43,
+        "name": "Жинст",
+        "parent": 64,
+        "name_en": "Jinst"
+    },
+    {
+        "code": 52,
+        "name": "Заамар",
+        "parent": 41,
+        "name_en": "Zaamar"
+    },
+    {
+        "code": 13,
+        "name": "Завхан",
+        "parent": 85,
+        "name_en": "Zavkhan"
+    },
+    {
+        "code": 19,
+        "name": "Завханмандал",
+        "parent": 81,
+        "name_en": "Zavkhanmandal"
+    },
+    {
+        "code": 46,
+        "name": "Заг",
+        "parent": 64,
+        "name_en": "Zag"
+    },
+    {
+        "code": 16,
+        "name": "Замын-Үүд",
+        "parent": 44,
+        "name_en": "Zamiin-Uud"
+    },
+    {
+        "code": 1,
+        "name": "Зуунмод",
+        "parent": 41,
+        "name_en": "Zuunmod"
+    },
+    {
+        "code": 22,
+        "name": "Зэрэг",
+        "parent": 84,
+        "name_en": "Zereg"
+    },
+    {
+        "code": 28,
+        "name": "Зүүнбаян-Улаан",
+        "parent": 62,
+        "name_en": "Zuunbayan-Ulaan"
+    },
+    {
+        "code": 19,
+        "name": "Зүүнбүрэн",
+        "parent": 43,
+        "name_en": "Zuunburen"
+    },
+    {
+        "code": 16,
+        "name": "Зүүнговь",
+        "parent": 85,
+        "name_en": "Zuungovi"
+    },
+    {
+        "code": 19,
+        "name": "Зүүнхангай",
+        "parent": 85,
+        "name_en": "Zuunkhangai"
+    },
+    {
+        "code": 22,
+        "name": "Идэр",
+        "parent": 81,
+        "name_en": "Ider"
+    },
+    {
+        "code": 13,
+        "name": "Их тамир",
+        "parent": 65,
+        "name_en": "Ikh tamir"
+    },
+    {
+        "code": 22,
+        "name": "Их-Уул",
+        "parent": 67,
+        "name_en": "Ikh-Uul"
+    },
+    {
+        "code": 25,
+        "name": "Их-Уул",
+        "parent": 81,
+        "name_en": "Ikh-Uul"
+    },
+    {
+        "code": 19,
+        "name": "Иххэт",
+        "parent": 44,
+        "name_en": "Ikhkhet"
+    },
+    {
+        "code": 25,
+        "name": "Луус",
+        "parent": 48,
+        "name_en": "Luus"
+    },
+    {
+        "code": 55,
+        "name": "Лүн",
+        "parent": 41,
+        "name_en": "Lun"
+    },
+    {
+        "code": 22,
+        "name": "Малчин",
+        "parent": 85,
+        "name_en": "Malchin"
+    },
+    {
+        "code": 22,
+        "name": "Мандал",
+        "parent": 43,
+        "name_en": "Mandal"
+    },
+    {
+        "code": 16,
+        "name": "Мандал-Овоо",
+        "parent": 46,
+        "name_en": "Mandal-Ovoo"
+    },
+    {
+        "code": 22,
+        "name": "Мандах",
+        "parent": 44,
+        "name_en": "Mandakh"
+    },
+    {
+        "code": 19,
+        "name": "Манлай",
+        "parent": 46,
+        "name_en": "Manlai"
+    },
+    {
+        "code": 25,
+        "name": "Манхан",
+        "parent": 84,
+        "name_en": "Mankhan"
+    },
+    {
+        "code": 22,
+        "name": "Матад",
+        "parent": 21,
+        "name_en": "Matad"
+    },
+    {
+        "code": 22,
+        "name": "Могод",
+        "parent": 63,
+        "name_en": "Mogod"
+    },
+    {
+        "code": 34,
+        "name": "Мянгад",
+        "parent": 84,
+        "name_en": "Myangad"
+    },
+    {
+        "code": 58,
+        "name": "Мөнгөнморьт",
+        "parent": 41,
+        "name_en": "Mungunmorit"
+    },
+    {
+        "code": 13,
+        "name": "Мөнххаан",
+        "parent": 22,
+        "name_en": "Munkhkhaan"
+    },
+    {
+        "code": 28,
+        "name": "Мөнххайрхан",
+        "parent": 84,
+        "name_en": "Munkhkhairkhan"
+    },
+    {
+        "code": 40,
+        "name": "Мөрөн",
+        "parent": 23,
+        "name_en": "Murun"
+    },
+    {
+        "code": 1,
+        "name": "Мөрөн",
+        "parent": 67,
+        "name_en": "Murun"
+    },
+    {
+        "code": 31,
+        "name": "Мөст",
+        "parent": 84,
+        "name_en": "Must"
+    },
+    {
+        "code": 13,
+        "name": "Налайх",
+        "parent": 11,
+        "name_en": "Nalaikh"
+    },
+    {
+        "code": 16,
+        "name": "Наран",
+        "parent": 22,
+        "name_en": "Naran"
+    },
+    {
+        "code": 25,
+        "name": "Наранбулаг",
+        "parent": 85,
+        "name_en": "Naranbulag"
+    },
+    {
+        "code": 31,
+        "name": "Нарийнтээл",
+        "parent": 62,
+        "name_en": "Nariinteel"
+    },
+    {
+        "code": 25,
+        "name": "Ногооннуур",
+        "parent": 83,
+        "name_en": "Nogoonnuur"
+    },
+    {
+        "code": 25,
+        "name": "Номгон",
+        "parent": 46,
+        "name_en": "Nomgon"
+    },
+    {
+        "code": 43,
+        "name": "Норовлин",
+        "parent": 23,
+        "name_en": "Norovlin"
+    },
+    {
+        "code": 22,
+        "name": "Ноён",
+        "parent": 46,
+        "name_en": "Noyon"
+    },
+    {
+        "code": 28,
+        "name": "Нөмрөг",
+        "parent": 81,
+        "name_en": "Numrug"
+    },
+    {
+        "code": 19,
+        "name": "Онгон",
+        "parent": 22,
+        "name_en": "Ongon"
+    },
+    {
+        "code": 25,
+        "name": "Орхон",
+        "parent": 43,
+        "name_en": "Orkhon"
+    },
+    {
+        "code": 4,
+        "name": "Орхон",
+        "parent": 45,
+        "name_en": "Orkhon"
+    },
+    {
+        "code": 25,
+        "name": "Орхон",
+        "parent": 63,
+        "name_en": "Orkhon"
+    },
+    {
+        "code": 28,
+        "name": "Орхонтуул",
+        "parent": 43,
+        "name_en": "Orkhontuul"
+    },
+    {
+        "code": 31,
+        "name": "Отгон",
+        "parent": 81,
+        "name_en": "Otgon"
+    },
+    {
+        "code": 28,
+        "name": "Рашаант",
+        "parent": 63,
+        "name_en": "Rashaant"
+    },
+    {
+        "code": 25,
+        "name": "Рашаант",
+        "parent": 67,
+        "name_en": "Rashaant"
+    },
+    {
+        "code": 28,
+        "name": "Рэнчинлхүмбэ",
+        "parent": 67,
+        "name_en": "Renchinlkhumbe"
+    },
+    {
+        "code": 37,
+        "name": "Сагил",
+        "parent": 85,
+        "name_en": "Sagil"
+    },
+    {
+        "code": 28,
+        "name": "Сагсай",
+        "parent": 83,
+        "name_en": "Sagsai"
+    },
+    {
+        "code": 1,
+        "name": "Сайнцагаан",
+        "parent": 48,
+        "name_en": "Saintsagaan"
+    },
+    {
+        "code": 1,
+        "name": "Сайншанд",
+        "parent": 44,
+        "name_en": "Sainshand"
+    },
+    {
+        "code": 31,
+        "name": "Сайхан",
+        "parent": 43,
+        "name_en": "Saikhan"
+    },
+    {
+        "code": 31,
+        "name": "Сайхан",
+        "parent": 63,
+        "name_en": "Saikhan"
+    },
+    {
+        "code": 34,
+        "name": "Сайхан-Овоо",
+        "parent": 48,
+        "name_en": "Saikhan-Ovoo"
+    },
+    {
+        "code": 28,
+        "name": "Сайхандулаан",
+        "parent": 44,
+        "name_en": "Saikhandulaan"
+    },
+    {
+        "code": 34,
+        "name": "Сант",
+        "parent": 43,
+        "name_en": "Sant"
+    },
+    {
+        "code": 37,
+        "name": "Сант",
+        "parent": 62,
+        "name_en": "Sant"
+    },
+    {
+        "code": 34,
+        "name": "Сантмаргац",
+        "parent": 81,
+        "name_en": "Santmargats"
+    },
+    {
+        "code": 37,
+        "name": "Сонгино",
+        "parent": 81,
+        "name_en": "Songino"
+    },
+    {
+        "code": 16,
+        "name": "Сонгинохайрхан",
+        "parent": 11,
+        "name_en": "Songinokhairkhan"
+    },
+    {
+        "code": 28,
+        "name": "Сэврэй",
+        "parent": 46,
+        "name_en": "Sevrei"
+    },
+    {
+        "code": 34,
+        "name": "Сэлэнгэ",
+        "parent": 63,
+        "name_en": "Selenge"
+    },
+    {
+        "code": 25,
+        "name": "Сэргэлэн",
+        "parent": 21,
+        "name_en": "Sergelen"
+    },
+    {
+        "code": 67,
+        "name": "Сэргэлэн",
+        "parent": 41,
+        "name_en": "Sergelen"
+    },
+    {
+        "code": 64,
+        "name": "Сүмбэр",
+        "parent": 41,
+        "name_en": "Sumber"
+    },
+    {
+        "code": 1,
+        "name": "Сүмбэр",
+        "parent": 42,
+        "name_en": "Sumber"
+    },
+    {
+        "code": 19,
+        "name": "Сүхбаатар",
+        "parent": 11,
+        "name_en": "Sukhbaatar"
+    },
+    {
+        "code": 22,
+        "name": "Сүхбаатар",
+        "parent": 22,
+        "name_en": "Sukhbaatar"
+    },
+    {
+        "code": 1,
+        "name": "Сүхбаатар",
+        "parent": 43,
+        "name_en": "Sukhbaatar"
+    },
+    {
+        "code": 25,
+        "name": "Тайшир",
+        "parent": 82,
+        "name_en": "Taishir"
+    },
+    {
+        "code": 40,
+        "name": "Тарагт",
+        "parent": 62,
+        "name_en": "Taragt"
+    },
+    {
+        "code": 31,
+        "name": "Тариалан",
+        "parent": 67,
+        "name_en": "Tarialan"
+    },
+    {
+        "code": 40,
+        "name": "Тариалан",
+        "parent": 85,
+        "name_en": "Tarialan"
+    },
+    {
+        "code": 25,
+        "name": "Тариат",
+        "parent": 65,
+        "name_en": "Tariat"
+    },
+    {
+        "code": 31,
+        "name": "Толбо",
+        "parent": 83,
+        "name_en": "Tolbo"
+    },
+    {
+        "code": 28,
+        "name": "Тонхил",
+        "parent": 82,
+        "name_en": "Tonkhil"
+    },
+    {
+        "code": 34,
+        "name": "Тосонцэнгэл",
+        "parent": 67,
+        "name_en": "Tosontsengel"
+    },
+    {
+        "code": 40,
+        "name": "Тосонцэнгэл",
+        "parent": 81,
+        "name_en": "Tosontsengel"
+    },
+    {
+        "code": 46,
+        "name": "Тэлмэн",
+        "parent": 81,
+        "name_en": "Telmen"
+    },
+    {
+        "code": 49,
+        "name": "Тэс",
+        "parent": 81,
+        "name_en": "Tes"
+    },
+    {
+        "code": 46,
+        "name": "Тэс",
+        "parent": 85,
+        "name_en": "Tes"
+    },
+    {
+        "code": 37,
+        "name": "Тэшиг",
+        "parent": 63,
+        "name_en": "Teshig"
+    },
+    {
+        "code": 25,
+        "name": "Түвшинширээ",
+        "parent": 22,
+        "name_en": "Tuvshinshiree"
+    },
+    {
+        "code": 43,
+        "name": "Түдэвтэй",
+        "parent": 81,
+        "name_en": "Tudevtei"
+    },
+    {
+        "code": 28,
+        "name": "Түмэнцогт",
+        "parent": 22,
+        "name_en": "Tumentsogt"
+    },
+    {
+        "code": 40,
+        "name": "Түнэл",
+        "parent": 67,
+        "name_en": "Tunel"
+    },
+    {
+        "code": 43,
+        "name": "Түргэн",
+        "parent": 85,
+        "name_en": "Turgen"
+    },
+    {
+        "code": 37,
+        "name": "Түшиг",
+        "parent": 43,
+        "name_en": "Tushig"
+    },
+    {
+        "code": 28,
+        "name": "Төвшрүүлэх",
+        "parent": 65,
+        "name_en": "Tuvshruulekh"
+    },
+    {
+        "code": 43,
+        "name": "Төгрөг",
+        "parent": 62,
+        "name_en": "Tugrug"
+    },
+    {
+        "code": 31,
+        "name": "Төгрөг",
+        "parent": 82,
+        "name_en": "Tugrug"
+    },
+    {
+        "code": 37,
+        "name": "Төмөрбулаг",
+        "parent": 67,
+        "name_en": "Tumurbulag"
+    },
+    {
+        "code": 70,
+        "name": "Угтаалцайдам",
+        "parent": 41,
+        "name_en": "Ugtaaltsaidam"
+    },
+    {
+        "code": 43,
+        "name": "Улаан-Уул",
+        "parent": 67,
+        "name_en": "Ulaan-Uul"
+    },
+    {
+        "code": 31,
+        "name": "Улаанбадрах",
+        "parent": 44,
+        "name_en": "Ulaanbadrakh"
+    },
+    {
+        "code": 1,
+        "name": "Улаангом",
+        "parent": 85,
+        "name_en": "Ulaangom"
+    },
+    {
+        "code": 34,
+        "name": "Улаанхус",
+        "parent": 83,
+        "name_en": "Ulaankhus"
+    },
+    {
+        "code": 1,
+        "name": "Улиастай",
+        "parent": 81,
+        "name_en": "Uliastai"
+    },
+    {
+        "code": 52,
+        "name": "Ургамал",
+        "parent": 81,
+        "name_en": "Urgamal"
+    },
+    {
+        "code": 31,
+        "name": "Уулбаян",
+        "parent": 22,
+        "name_en": "Uulbayan"
+    },
+    {
+        "code": 46,
+        "name": "Уянга",
+        "parent": 62,
+        "name_en": "Uyanga"
+    },
+    {
+        "code": 31,
+        "name": "Хайрхан",
+        "parent": 65,
+        "name_en": "Khairkhan"
+    },
+    {
+        "code": 49,
+        "name": "Хайрхандулаан",
+        "parent": 62,
+        "name_en": "Khairkhandulaan"
+    },
+    {
+        "code": 34,
+        "name": "Халзан",
+        "parent": 22,
+        "name_en": "Khalzan"
+    },
+    {
+        "code": 34,
+        "name": "Халиун",
+        "parent": 82,
+        "name_en": "Khaliun"
+    },
+    {
+        "code": 28,
+        "name": "Халхгол",
+        "parent": 21,
+        "name_en": "Khalkhgol"
+    },
+    {
+        "code": 22,
+        "name": "Хан-Уул",
+        "parent": 11,
+        "name_en": "Khan-Uul"
+    },
+    {
+        "code": 31,
+        "name": "Ханбогд",
+        "parent": 46,
+        "name_en": "Khanbogd"
+    },
+    {
+        "code": 34,
+        "name": "Хангай",
+        "parent": 65,
+        "name_en": "Khangai"
+    },
+    {
+        "code": 40,
+        "name": "Хангал",
+        "parent": 63,
+        "name_en": "Khangal"
+    },
+    {
+        "code": 46,
+        "name": "Ханх",
+        "parent": 67,
+        "name_en": "Khankh"
+    },
+    {
+        "code": 34,
+        "name": "Ханхонгор",
+        "parent": 46,
+        "name_en": "Khankhongor"
+    },
+    {
+        "code": 52,
+        "name": "Хархорин",
+        "parent": 62,
+        "name_en": "Kharkhorin"
+    },
+    {
+        "code": 34,
+        "name": "Хатанбулаг",
+        "parent": 44,
+        "name_en": "Khatanbulag"
+    },
+    {
+        "code": 37,
+        "name": "Хашаат",
+        "parent": 65,
+        "name_en": "Khashaat"
+    },
+    {
+        "code": 43,
+        "name": "Хишиг-өндөр",
+        "parent": 63,
+        "name_en": "Khishig-undur"
+    },
+    {
+        "code": 40,
+        "name": "Ховд",
+        "parent": 84,
+        "name_en": "Khovd"
+    },
+    {
+        "code": 49,
+        "name": "Ховд",
+        "parent": 85,
+        "name_en": "Khovd"
+    },
+    {
+        "code": 7,
+        "name": "Хонгор",
+        "parent": 45,
+        "name_en": "Khongor"
+    },
+    {
+        "code": 40,
+        "name": "Хотонт",
+        "parent": 65,
+        "name_en": "Khotont"
+    },
+    {
+        "code": 55,
+        "name": "Хужирт",
+        "parent": 62,
+        "name_en": "Khujirt"
+    },
+    {
+        "code": 37,
+        "name": "Хулд",
+        "parent": 48,
+        "name_en": "Khuld"
+    },
+    {
+        "code": 46,
+        "name": "Хутаг-Өндөр",
+        "parent": 63,
+        "name_en": "Khutag-Undur"
+    },
+    {
+        "code": 43,
+        "name": "Хушаат",
+        "parent": 43,
+        "name_en": "Khushaat"
+    },
+    {
+        "code": 1,
+        "name": "Хэрлэн",
+        "parent": 21,
+        "name_en": "Kherlen"
+    },
+    {
+        "code": 1,
+        "name": "Хэрлэн",
+        "parent": 23,
+        "name_en": "Kherlen"
+    },
+    {
+        "code": 52,
+        "name": "Хяргас",
+        "parent": 85,
+        "name_en": "Khyargas"
+    },
+    {
+        "code": 40,
+        "name": "Хүдэр",
+        "parent": 43,
+        "name_en": "Khuder"
+    },
+    {
+        "code": 37,
+        "name": "Хүрмэн",
+        "parent": 46,
+        "name_en": "Khurmen"
+    },
+    {
+        "code": 52,
+        "name": "Хүрээмарал",
+        "parent": 64,
+        "name_en": "Khureemaral"
+    },
+    {
+        "code": 37,
+        "name": "Хөвсгөл",
+        "parent": 44,
+        "name_en": "Khuvsgul"
+    },
+    {
+        "code": 31,
+        "name": "Хөлөнбуйр",
+        "parent": 21,
+        "name_en": "Khulunbuir"
+    },
+    {
+        "code": 37,
+        "name": "Хөхморьт",
+        "parent": 82,
+        "name_en": "Khukhmorit"
+    },
+    {
+        "code": 34,
+        "name": "Цагаан-Овоо",
+        "parent": 21,
+        "name_en": "Tsagaan-Ovoo"
+    },
+    {
+        "code": 52,
+        "name": "Цагаан-Уул",
+        "parent": 67,
+        "name_en": "Tsagaan-Uul"
+    },
+    {
+        "code": 55,
+        "name": "Цагаан-Үүр",
+        "parent": 67,
+        "name_en": "Tsagaan-Uur"
+    },
+    {
+        "code": 40,
+        "name": "Цагаандэлгэр",
+        "parent": 48,
+        "name_en": "Tsagaandelger"
+    },
+    {
+        "code": 46,
+        "name": "Цагааннуур",
+        "parent": 43,
+        "name_en": "Tsagaannuur"
+    },
+    {
+        "code": 49,
+        "name": "Цагааннуур",
+        "parent": 67,
+        "name_en": "Tsagaannuur"
+    },
+    {
+        "code": 55,
+        "name": "Цагаанхайрхан",
+        "parent": 81,
+        "name_en": "Tsagaankhairkhan"
+    },
+    {
+        "code": 55,
+        "name": "Цагаанхайрхан",
+        "parent": 85,
+        "name_en": "Tsagaankhairkhan"
+    },
+    {
+        "code": 58,
+        "name": "Цагаанчулуут",
+        "parent": 81,
+        "name_en": "Tsagaanchuluut"
+    },
+    {
+        "code": 43,
+        "name": "Цахир",
+        "parent": 65,
+        "name_en": "Tsakhir"
+    },
+    {
+        "code": 40,
+        "name": "Цогт",
+        "parent": 82,
+        "name_en": "Tsogt"
+    },
+    {
+        "code": 40,
+        "name": "Цогт-Овоо",
+        "parent": 46,
+        "name_en": "Tsogt-Ovoo"
+    },
+    {
+        "code": 43,
+        "name": "Цогтцэций",
+        "parent": 46,
+        "name_en": "Tsogttsetsii"
+    },
+    {
+        "code": 37,
+        "name": "Цэнгэл",
+        "parent": 83,
+        "name_en": "Tsengel"
+    },
+    {
+        "code": 46,
+        "name": "Цэнхэр",
+        "parent": 65,
+        "name_en": "Tsenkher"
+    },
+    {
+        "code": 49,
+        "name": "Цэнхэрмандал",
+        "parent": 23,
+        "name_en": "Tsenkhermandal"
+    },
+    {
+        "code": 43,
+        "name": "Цэцэг",
+        "parent": 84,
+        "name_en": "Tsetseg"
+    },
+    {
+        "code": 61,
+        "name": "Цэцэн-Уул",
+        "parent": 81,
+        "name_en": "Tsetsen-Uul"
+    },
+    {
+        "code": 49,
+        "name": "Цэцэрлэг",
+        "parent": 65,
+        "name_en": "Tsetserleg"
+    },
+    {
+        "code": 58,
+        "name": "Цэцэрлэг",
+        "parent": 67,
+        "name_en": "Tsetserleg"
+    },
+    {
+        "code": 73,
+        "name": "Цээл",
+        "parent": 41,
+        "name_en": "Tseel"
+    },
+    {
+        "code": 43,
+        "name": "Цээл",
+        "parent": 82,
+        "name_en": "Tseel"
+    },
+    {
+        "code": 46,
+        "name": "Чандмань",
+        "parent": 82,
+        "name_en": "Chandmani"
+    },
+    {
+        "code": 46,
+        "name": "Чандмань",
+        "parent": 84,
+        "name_en": "Chandmani"
+    },
+    {
+        "code": 61,
+        "name": "Чандмань-Өндөр",
+        "parent": 67,
+        "name_en": "Chandmani-Undur"
+    },
+    {
+        "code": 25,
+        "name": "Чингэлтэй",
+        "parent": 11,
+        "name_en": "Chingeltei"
+    },
+    {
+        "code": 37,
+        "name": "Чойбалсан",
+        "parent": 21,
+        "name_en": "Choibalsan"
+    },
+    {
+        "code": 40,
+        "name": "Чулуунхороот",
+        "parent": 21,
+        "name_en": "Chuluunkhoroot"
+    },
+    {
+        "code": 52,
+        "name": "Чулуут",
+        "parent": 65,
+        "name_en": "Chuluut"
+    },
+    {
+        "code": 49,
+        "name": "Шаамар",
+        "parent": 43,
+        "name_en": "Shaamar"
+    },
+    {
+        "code": 49,
+        "name": "Шарга",
+        "parent": 82,
+        "name_en": "Sharga"
+    },
+    {
+        "code": 10,
+        "name": "Шарын гол",
+        "parent": 45,
+        "name_en": "Shariin gol"
+    },
+    {
+        "code": 7,
+        "name": "Шивээговь",
+        "parent": 42,
+        "name_en": "Shiveegovi"
+    },
+    {
+        "code": 64,
+        "name": "Шилүүстэй",
+        "parent": 81,
+        "name_en": "Shiluustei"
+    },
+    {
+        "code": 64,
+        "name": "Шинэ-Идэр",
+        "parent": 67,
+        "name_en": "Shine-Ider"
+    },
+    {
+        "code": 55,
+        "name": "Шинэжинст",
+        "parent": 64,
+        "name_en": "Shinejinst"
+    },
+    {
+        "code": 76,
+        "name": "Эрдэнэ",
+        "parent": 41,
+        "name_en": "Erdene"
+    },
+    {
+        "code": 40,
+        "name": "Эрдэнэ",
+        "parent": 44,
+        "name_en": "Erdene"
+    },
+    {
+        "code": 52,
+        "name": "Эрдэнэ",
+        "parent": 82,
+        "name_en": "Erdene"
+    },
+    {
+        "code": 1,
+        "name": "Эрдэнэбулган",
+        "parent": 65,
+        "name_en": "Erdenebulgan"
+    },
+    {
+        "code": 67,
+        "name": "Эрдэнэбулган",
+        "parent": 67,
+        "name_en": "Erdenebulgan"
+    },
+    {
+        "code": 49,
+        "name": "Эрдэнэбүрэн",
+        "parent": 84,
+        "name_en": "Erdeneburen"
+    },
+    {
+        "code": 43,
+        "name": "Эрдэнэдалай",
+        "parent": 48,
+        "name_en": "Erdenedalai"
+    },
+    {
+        "code": 55,
+        "name": "Эрдэнэмандал",
+        "parent": 65,
+        "name_en": "Erdenemandal"
+    },
+    {
+        "code": 79,
+        "name": "Эрдэнэсант",
+        "parent": 41,
+        "name_en": "Erdenesant"
+    },
+    {
+        "code": 67,
+        "name": "Эрдэнэхайрхан",
+        "parent": 81,
+        "name_en": "Erdenekhairkhan"
+    },
+    {
+        "code": 37,
+        "name": "Эрдэнэцагаан",
+        "parent": 22,
+        "name_en": "Erdenetsagaan"
+    },
+    {
+        "code": 58,
+        "name": "Эрдэнэцогт",
+        "parent": 64,
+        "name_en": "Erdenetsogt"
+    },
+    {
+        "code": 70,
+        "name": "Яруу",
+        "parent": 81,
+        "name_en": "Yaruu"
+    },
+    {
+        "code": 37,
+        "name": "Үенч",
+        "parent": 84,
+        "name_en": "Uyench"
+    },
+    {
+        "code": 16,
+        "name": "Өгийнуур",
+        "parent": 65,
+        "name_en": "Ugiinuur"
+    },
+    {
+        "code": 1,
+        "name": "Өлгий",
+        "parent": 83,
+        "name_en": "Ulgii"
+    },
+    {
+        "code": 28,
+        "name": "Өлгий",
+        "parent": 85,
+        "name_en": "Ulgii"
+    },
+    {
+        "code": 28,
+        "name": "Өлзийт",
+        "parent": 48,
+        "name_en": "Ulziit"
+    },
+    {
+        "code": 34,
+        "name": "Өлзийт",
+        "parent": 62,
+        "name_en": "Ulziit"
+    },
+    {
+        "code": 49,
+        "name": "Өлзийт",
+        "parent": 64,
+        "name_en": "Ulziit"
+    },
+    {
+        "code": 19,
+        "name": "Өлзийт",
+        "parent": 65,
+        "name_en": "Ulziit"
+    },
+    {
+        "code": 31,
+        "name": "Өмнөгөвь",
+        "parent": 85,
+        "name_en": "Umnuguvi"
+    },
+    {
+        "code": 46,
+        "name": "Өмнөдэлгэр",
+        "parent": 23,
+        "name_en": "Umnudelger"
+    },
+    {
+        "code": 22,
+        "name": "Өндөр-Улаан",
+        "parent": 65,
+        "name_en": "Undur-Ulaan"
+    },
+    {
+        "code": 34,
+        "name": "Өндөрхангай",
+        "parent": 85,
+        "name_en": "Undurkhangai"
+    },
+    {
+        "code": 31,
+        "name": "Өндөршил",
+        "parent": 48,
+        "name_en": "Undurshil"
+    },
+    {
+        "code": 61,
+        "name": "Өндөрширээт",
+        "parent": 41,
+        "name_en": "Undurshireet"
+    },
+    {
+        "code": 25,
+        "name": "Өргөн",
+        "parent": 44,
+        "name_en": "Urgun"
+    }
+]

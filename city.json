@@ -1,0 +1,112 @@
+[
+    {
+        "code": 65,
+        "name": "Архангай",
+        "name_en": "Arkhangai"
+    },
+    {
+        "code": 83,
+        "name": "Баян-Өлгий",
+        "name_en": "Bayan-Ulgii"
+    },
+    {
+        "code": 64,
+        "name": "Баянхонгор",
+        "name_en": "Bayankhongor"
+    },
+    {
+        "code": 63,
+        "name": "Булган",
+        "name_en": "Bulgan"
+    },
+    {
+        "code": 82,
+        "name": "Говь-Алтай",
+        "name_en": "Govi-Altai"
+    },
+    {
+        "code": 42,
+        "name": "Говьсүмбэр",
+        "name_en": "Govisumber"
+    },
+    {
+        "code": 45,
+        "name": "Дархан-Уул",
+        "name_en": "Darkhan-Uul"
+    },
+    {
+        "code": 44,
+        "name": "Дорноговь",
+        "name_en": "Dornogovi"
+    },
+    {
+        "code": 21,
+        "name": "Дорнод",
+        "name_en": "Dornod"
+    },
+    {
+        "code": 48,
+        "name": "Дундговь",
+        "name_en": "Dundgovi"
+    },
+    {
+        "code": 81,
+        "name": "Завхан",
+        "name_en": "Zavkhan"
+    },
+    {
+        "code": 61,
+        "name": "Орхон",
+        "name_en": "Orkhon"
+    },
+    {
+        "code": 43,
+        "name": "Сэлэнгэ",
+        "name_en": "Selenge"
+    },
+    {
+        "code": 22,
+        "name": "Сүхбаатар",
+        "name_en": "Sukhbaatar"
+    },
+    {
+        "code": 41,
+        "name": "Төв",
+        "name_en": "Tuv"
+    },
+    {
+        "code": 85,
+        "name": "Увс",
+        "name_en": "Uvs"
+    },
+    {
+        "code": 11,
+        "name": "Улаанбаатар",
+        "name_en": "Ulaanbaatar"
+    },
+    {
+        "code": 84,
+        "name": "Ховд",
+        "name_en": "Khovd"
+    },
+    {
+        "code": 23,
+        "name": "Хэнтий",
+        "name_en": "Khentii"
+    },
+    {
+        "code": 67,
+        "name": "Хөвсгөл",
+        "name_en": "Khuvsgul"
+    },
+    {
+        "code": 62,
+        "name": "Өвөрхангай",
+        "name_en": "Uvurkhangai"
+    },
+    {
+        "code": 46,
+        "name": "Өмнөговь",
+        "name_en": "Umnugovi"
+    }
+]
